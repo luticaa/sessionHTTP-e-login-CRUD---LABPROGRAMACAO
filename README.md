@@ -43,7 +43,7 @@ Sistema proposto como entrega para a disciplina de **Laboratório de Programaç�
 
 ---
 
-## 🔑 Credenciais de Acesso
+## Credenciais de Acesso
 
 ### Usuário Administrador
 - **Email:** `admin@sebo.com`
@@ -51,7 +51,7 @@ Sistema proposto como entrega para a disciplina de **Laboratório de Programaç�
 
 ---
 
-## 🛣️ Rotas da Aplicação
+## Rotas da Aplicação
 
 ### Públicas
 - `/` → Redireciona para login
